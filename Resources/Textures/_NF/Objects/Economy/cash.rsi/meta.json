@@ -89,10 +89,15 @@
             "name": "cash_75000000"
         },
         {
-            "name": "cash_ultra"
-        },
-        {
-            "name": "cash_blank"
+            "name": "cash_ultra",
+            "delays": [
+                [
+                    0.2,
+                    0.2,
+                    0.2,
+                    0.2
+                ]
+            ]
         }
     ]
 }
