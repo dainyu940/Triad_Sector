@@ -5,7 +5,7 @@
   components:
   - type: Icon
     sprite: _NF/Objects/Economy/cash.rsi
-    state: cash_15000
+    state: cash_10000
   - type: Stack
     count: 15000
 

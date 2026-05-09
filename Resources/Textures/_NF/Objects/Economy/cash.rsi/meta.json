@@ -11,19 +11,28 @@
             "name": "cash"
         },
         {
-            "name": "cash_10"
+            "name": "cash_25"
+        },
+        {
+            "name": "cash_50"
+        },
+        {
+            "name": "cash_75"
         },
         {
             "name": "cash_100"
         },
         {
+            "name": "cash_250"
+        },
+        {
             "name": "cash_500"
         },
         {
-            "name": "cash_1000"
+            "name": "cash_750"
         },
         {
-            "name": "cash_2000"
+            "name": "cash_1000"
         },
         {
             "name": "cash_2500"
@@ -32,28 +41,19 @@
             "name": "cash_5000"
         },
         {
-            "name": "cash_10000"
+            "name": "cash_7500"
         },
         {
-            "name": "cash_15000"
+            "name": "cash_10000"
         },
         {
             "name": "cash_25000"
         },
         {
-            "name": "cash_30000"
-        },
-        {
-            "name": "cash_35000"
-        },
-        {
-            "name": "cash_40000"
-        },
-        {
             "name": "cash_50000"
         },
         {
-            "name": "cash_80000"
+            "name": "cash_75000"
         },
         {
             "name": "cash_100000"
@@ -69,6 +69,9 @@
         },
         {
             "name": "cash_1000000"
+        },
+        {
+            "name": "cash_2500000"
         },
         {
             "name": "cash_5000000"
@@ -87,6 +90,9 @@
         },
         {
             "name": "cash_ultra"
+        },
+        {
+            "name": "cash_blank"
         }
     ]
 }
